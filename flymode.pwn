@@ -70,7 +70,7 @@ public OnPlayerConnect(playerid)
 
 public OnPlayerCommandText(playerid, cmdtext[])
 {
-	if(!strcmp(cmdtext, "/aflymode", true))
+	if(!strcmp(cmdtext, "/flymode", true))
 	{
 	    // Place the player in and out of edit mode
 		if(GetPVarType(playerid, "FlyMode")) CancelFlyMode(playerid);
