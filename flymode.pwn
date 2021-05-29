@@ -3,9 +3,7 @@
 // This is an example of using the AttachCameraToObject function
 // to create a no-clip flying camera.
 //
-// h02 2012
-//
-// SA-MP 0.3e and above
+// SA-MP 0.3.DL and above
 //
 //-------------------------------------------------
 
